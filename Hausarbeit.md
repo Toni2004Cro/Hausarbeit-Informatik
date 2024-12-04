@@ -10,6 +10,8 @@
 
 ## Die Entwicklung der integrietren Schaltkreise
 
+## Die Zeit der mobilen Endgeräte
+
 ## Zusammenfassung
 
 ## Literatur
